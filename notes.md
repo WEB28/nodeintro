@@ -13,3 +13,5 @@ change scripts in the package.json to => "start": "start index.js"
 write the server in the index.js file 
 
 add an endpoint at localhost:5000/ GET
+
+write an endpoint at '/api/hubs'
